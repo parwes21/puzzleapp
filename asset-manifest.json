@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/puzzleapp/static/css/main.c9775c4c.chunk.css",
+    "main.css": "/puzzleapp/static/css/main.748b4885.chunk.css",
     "main.js": "/puzzleapp/static/js/main.333aa0cd.chunk.js",
     "main.js.map": "/puzzleapp/static/js/main.333aa0cd.chunk.js.map",
     "runtime-main.js": "/puzzleapp/static/js/runtime-main.003aec7d.js",
@@ -10,14 +10,14 @@
     "static/js/3.b9cb26f4.chunk.js": "/puzzleapp/static/js/3.b9cb26f4.chunk.js",
     "static/js/3.b9cb26f4.chunk.js.map": "/puzzleapp/static/js/3.b9cb26f4.chunk.js.map",
     "index.html": "/puzzleapp/index.html",
-    "static/css/main.c9775c4c.chunk.css.map": "/puzzleapp/static/css/main.c9775c4c.chunk.css.map",
+    "static/css/main.748b4885.chunk.css.map": "/puzzleapp/static/css/main.748b4885.chunk.css.map",
     "static/js/2.1ed38954.chunk.js.LICENSE.txt": "/puzzleapp/static/js/2.1ed38954.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/puzzleapp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.003aec7d.js",
     "static/js/2.1ed38954.chunk.js",
-    "static/css/main.c9775c4c.chunk.css",
+    "static/css/main.748b4885.chunk.css",
     "static/js/main.333aa0cd.chunk.js"
   ]
 }
